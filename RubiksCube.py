@@ -251,7 +251,7 @@ def main():
     sampleCube.rotateRightCounterClockwise()
     sampleCube.rotateDownClockwise()
     sampleCube.rotateLeftCounterClockwise()
-    sampleCube.rotateDownCounterClockwise
+    sampleCube.rotateDownCounterClockwise()
     sampleCube.rotateFrontCounterClockwise()
     sampleCube.showCube()
    

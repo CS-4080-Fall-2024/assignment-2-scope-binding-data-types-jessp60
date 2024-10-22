@@ -1,4 +1,5 @@
-# Assignment 2, Question 4  
+# Assignment 2, Question 4
+# Reference: https://medium.com/@ekollie324/how-to-build-a-rubiks-cube-in-python-c3bd19cbcd73
 
 class RubiksCube:
     def __init__(self, size):

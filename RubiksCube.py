@@ -231,7 +231,7 @@ class RubiksCube:
 
 
     def showCube(self):
-        "Function that prints each face with each corresponding row of the face."
+        #Function that prints each face with each corresponding row of the face.
         print("-------------------------------")
         # For every face of the cube, print each row.
         for face in self.face:
